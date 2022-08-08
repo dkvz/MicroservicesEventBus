@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Post.API.Controllers;
+namespace Search.API.Controllers;
 
 [ApiController]
 [Route("/")]
